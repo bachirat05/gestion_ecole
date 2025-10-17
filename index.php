@@ -1,2 +1,3 @@
 <?php
-echo Bienvenue dans lapplication de gestion décole; ?>
+echo "Bienvenue dans lapplication de gestion décole" ;
+ ?>
